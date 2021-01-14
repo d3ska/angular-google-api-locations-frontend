@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-locations-google-api"
+  "defaultProject": "angular-locations-google-api",
+  "cli": {
+    "analytics": "52ba5632-c77c-4966-b46f-bc7564b4b601"
+  }
 }
