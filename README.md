@@ -1,4 +1,4 @@
-# Locations using goole maps
+# Locations using Google maps
 
 The application shows the closest restaurants on the maps, from the place where we clicked.
 
