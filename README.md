@@ -1,8 +1,6 @@
 # Locations using Google maps
 
-The application shows the closest restaurants on the maps, from the place where we clicked.
-
-Its frontend of that app in Angular.
+The Angular frontend of the application, which has a backend built on Spring Boot, presents a map showing the nearest restaurants based on the user's click location.
 
 ![](images/image1.png)
 ![](images/image2.png)
